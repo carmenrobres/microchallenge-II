@@ -277,3 +277,4 @@ Will write them on sunday 24/03
 #### Photograph
 
 ![Immagine WhatsApp 2024-03-19 ore 18.07.58_8215d074](https://hackmd.io/_uploads/B1m9DUwAT.jpg)
+
