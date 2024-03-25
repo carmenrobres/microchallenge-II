@@ -206,6 +206,8 @@ Overall, the script serves as an MQTT subscriber that logs received messages to 
     - The script runs the split_data_by_time_gaps() function on the input CSV file, creating multiple output CSV files, each containing a subset of the original data with time gaps exceeding 60 minutes.
 
 **Language**
+![language](https://github.com/annafedele/microchallenge-II/assets/145042059/08de3c15-bcfe-495a-8385-777fa9aadc8e)
+
 - The main function of the script is responsible for processing a CSV file and generating an image.
 - It takes the data from the input CSV file.
 - The script performs the following tasks:
@@ -263,14 +265,46 @@ For the project, we would like to make it into a wearable.
 
 ### References and Resources
 
-Will write them on sunday 24/03
 *Setting up Raspberry Pi*
+
+https://www.raspberrypi.com/documentation/computers/getting-started.html#configuration-on-first-boot
+
 
 *MQTT + Mosquitto*
 
-*How to automate the process*
+https://randomnerdtutorials.com/how-to-install-mosquitto-broker-on-raspberry-pi/
+
+https://phoenixnap.com/kb/ssh-to-connect-to-remote-server-linux-or-windows
+
+https://mosquitto.org/
+
+How to log mqtt data into a csv file:
+https://openautomationsoftware.com/knowledge-base/log-mqtt-data-database-csv-excel/
+
+How to Use MQTT in Python with Paho Client:
+https://www.emqx.com/en/blog/how-to-use-mqtt-in-python
+
 
 *Python code*
+
+how to autostart the raspberry pi: https://forums.raspberrypi.com/viewtopic.php?t=294014
+
+https://learnpython.com/blog/open-python-files-in-terminal/#:~:text=How%20to%20Create%20Python%20Files,along%20with%20the%20file%20name.
+
+https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html#creating-simple-project
+
+CHATGPT THE ONE AND ONLY
+
+
+*Silhouette Setup*
+https://www.silhouette101.com/archives/sketching-with-pens
+
+
+*Programs we looked up but never used*
+
+http://chilipeppr.com/
+
+https://nodered.org/
 
 
 
