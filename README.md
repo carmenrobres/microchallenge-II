@@ -1,5 +1,7 @@
 # Microchallenge II
-contributors: Carmen and Anna
+contributors:
+Carmen - https://carmenrobres.github.io/portfolio/
+Anna - https://annafedele.github.io/mdef/
 
 ## Areas of interest
 We began our project by converging our areas of interest, which respectively focused on collecting mental and physical health data in order to represent them artistically to help people.
